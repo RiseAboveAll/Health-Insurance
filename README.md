@@ -3,5 +3,5 @@ FinMan is a financial services company that provides various financial services 
 ## Insights
 <img src=images/1.PNG></img>
 
-**Is Spouse with respect to Response variable has distribution of 75:25 %.. Likelihood of positive response while married approximately equals to while not married. Hence this does not explain the target variable **
+##### Is Spouse with respect to Response variable has distribution of 75:25 %.. Likelihood of positive response while married approximately equals to while not married. Hence this does not explain the target variable 
 
