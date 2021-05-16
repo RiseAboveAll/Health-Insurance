@@ -32,3 +32,16 @@ FinMan is a financial services company that provides various financial services 
 <img src=images/8.PNG></img>
 
 ##### We see the premium distribution for response type is almost same, there is no difference in distribution for positive and negative response. Hence it does not help in explaining the Response, both category has equal likelihood.
+
+## Aproach
+
+### Missing Values Treatment
+
+- Categorical - Mode
+
+- Numerical - -999
+
+### Feature Aggregation 
+
+- Groupby using statistcal methods like min, max, average, etc. Used manual function like top_ten and bottom_ten 
+
